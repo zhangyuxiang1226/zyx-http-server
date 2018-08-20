@@ -1,0 +1,23 @@
+{
+  "name": "zyx-http-server",
+  "version": "1.0.2",
+  "description": "",
+  "bin": {
+    "zyx-http-server": "bin/www.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1",
+    "debug": "^3.1.0",
+    "ejs": "^2.6.1",
+    "mime": "^2.3.1",
+    "yarn": "^1.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zyx8656",
+  "license": "ISC"
+}
